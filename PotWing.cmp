@@ -1,0 +1,52 @@
+Cmp-Mod V01 Created by CvPcb (2014-02-26 BZR 4721)-product date = Wednesday, 03 September 2014 11:17:09
+
+BeginCmp
+TimeStamp = /54064CE1;
+Reference = K1;
+ValeurCmp = CONN_3;
+IdModule  = pin_array:PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54064CF5;
+Reference = K2;
+ValeurCmp = CONN_3;
+IdModule  = pin_array:PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54064D09;
+Reference = K3;
+ValeurCmp = CONN_3;
+IdModule  = pin_array:PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54064D1D;
+Reference = K4;
+ValeurCmp = CONN_3;
+IdModule  = pin_array:PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54064D31;
+Reference = K5;
+ValeurCmp = CONN_3;
+IdModule  = pin_array:PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54064D73;
+Reference = K6;
+ValeurCmp = CONN_3;
+IdModule  = pin_array:PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54064CBC;
+Reference = SHIELD1;
+ValeurCmp = ARDUINO_HALF_SHIELD;
+IdModule  = DQM:ARDUINO_HALF_SHIELD;
+EndCmp
+
+EndListe
